@@ -35,6 +35,50 @@ Contents:
 
 
 
+## What's News?
+
+### The Open Blockchains Book of the Year 2020 Award Goes To...
+
+![](i/libra-shrugged.png)
+[**Libra Shrugged: How Facebook Tried to Take Over the Money**](https://davidgerard.co.uk/blockchain/libra/) 
+by David Gerard, November 2020, 182 Pages --
+_Introduction: Taking over the money  ++
+A user's guide to Libra   ++
+The genesis of Libra: Beller's blockchain ++
+To launch a Libra: Let’s start a crypto  ++
+Bitcoin: why Libra is like this  ++
+The Libra White Papers  ++
+Banking the unbanked  ++
+The Libra Reserve plan and economic stability ++
+Libra, privacy and your digital identity  ++
+The regulators recoil in horror  ++
+David Marcus before the US House and Senate ++
+July to September 2019: Libra runs the gauntlet  ++
+October 2019: Libra's bad month  ++
+Mark Zuckerberg before the US House  ++
+November 2019: The comedown  ++
+Central bank digital currencies  ++
+Epilogue: Libra 2.0: not dead yet  ++
+Appendix: 2010–2013: The rise and fall of Facebook Credits_
+
+
+For more about Diem (formerly Libra), see the [Awesome Diem (formerly Libra) and Move page »](https://github.com/openblockchains/awesome-diem)  
+
+
+### The Best Crypto Quote "Oracle Saying" of the Year 2020 Award Goes To...
+
+> SEC Investor Education:
+> - Don't understand an investment?
+> - Don't invest in it.
+
+Yes, but what if there's only 21 million of it?
+
+  \- Trolly McTrollface
+
+For more crypto quotes, see the [100+ Best of Crypto Quotes - I HODL, you HODL, we HODL! - BREAKING: BITCOIN JUST BROKE $22 000! page »](https://github.com/openblockchains/crypto-quotes)
+
+
+
 ## Frequently Asked Questions (F.A.Q.s) & Answers
 
 
@@ -167,6 +211,11 @@ by Adil Moujahid, March 2018, [(Source)](https://github.com/adilmoujahid/blockch
 [**centralbank command line tool (and library) - Print Your Own Money / Cryptocurrency; Run Your Own Federated Central Bank Nodes on the Blockchain Peer-to-Peer over HTTP**](https://planetruby.github.io/calendar/advent2017/24-centralbank.html) by Gerald Bauer, Ruby Advent Calendar 2017 / Day 24, December 2017
 
 
+### Crystal
+
+[**Write your own blockchain and Proof-of-Work (PoW) algorithm using Crystal**](https://medium.com/@bradford_hamilton/write-your-own-blockchain-and-pow-algorithm-using-crystal-d53d5d9d0c52) by Bradford Lamson-Scribner, May 2018,
+[(Source)](https://github.com/bradford-hamilton/crystal-blockchain)
+
 
 ### JavaScript
 
@@ -178,12 +227,32 @@ by Xavier Decuyper, July 2017
 [**Build your own Blockchain in Javascript/Visualization of Blockchains**](https://github.com/nambrot/blockchain-in-js) by Nam Chu Hoai,  January 2018
 
 
+### TypeScript
+
+[**Naivecoin: a tutorial for building a cryptocurrency**](https://lhartikk.github.io) by Lauri Hartikka, [(Source)](https://github.com/lhartikk/naivecoin)
+
 
 ### Java
 
 [**Creating Your First Blockchain with Java, Part 1**](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa) by Kass, December 2017, [(Source)](https://github.com/CryptoKass/NoobChain-Tutorial-Part-1)
 
+### Kotlin
 
+[**Let's implement a cryptocurrency in Kotlin**](https://medium.com/@vasilyf/lets-implement-a-cryptocurrency-in-kotlin-part-1-blockchain-8704069f8580) by Vasily Fomin, July 2018,
+[(Source)](https://github.com/VasilyFomin/kCoin)
+
+
+### SQL
+
+[**Blockchain by Example in SQL Server**](https://medium.com/@benjaminsky/blockchain-by-example-in-sql-server-8376b410128) by Benjamin Campbell, December 2017, [(Source)](https://github.com/benjaminsky/BlockchainMessenger)
+
+
+### Rust
+
+**Building Blockchain in Rust Series** by Jacob Lindahl, GeekLaunch, [(Source)](https://github.com/GeekLaunch/blockchain-rust), [(Slide Decks in PDF)](https://github.com/GeekLaunch/slides)
+- [**Part 1: Blocks and Hashing**](https://medium.com/geeklaunch/blockchain-in-rust-01-blocks-hashing-4192f2265d3d), January 2019
+- [**Part 2: Mining**](https://medium.com/geeklaunch/blockchain-in-rust-02-mining-companion-guide-9106b7a7696d), January 2019
+- [**Part 3: Chains and Checks**](https://medium.com/geeklaunch/blockchain-in-rust-03-chains-checks-companion-guide-2714e1a76654), January 2019
 
 ### Go
 
@@ -206,7 +275,12 @@ Blockchain Series in Go by by Coral Health [(Source)](https://github.com/mycoral
 - [**Code your own blockchain mining algorithm in Go!**](https://medium.com/@mycoralhealth/code-your-own-blockchain-mining-algorithm-in-go-82c6a71aba1f) by Coral Health, March 2018
 
 
+<!--
+  it's more about bitcoin (and not about blockchain really)
+### C#
 
+[**Programming The Blockchain in C#**](https://programmingblockchain.gitbooks.io/programmingblockchain/)
+-->
 
 
 ### Talk Notes
@@ -671,9 +745,11 @@ Step 2: Pump up your tokens. How? ++
 Step 3: Revolutionize the World. How?_
 
 
-[**Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics**](https://github.com/bitsblocks/bitcoin-maximalist), 2018 - FREE 
+[**Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics**](https://github.com/bitsblocks/bitcoin-maximalist) by Trolly McTrollface, et al, 2018 - FREE 
 
-[**Crypto Facts - Decentralize Payments - Efficient, Low Cost, Fair, Clean - True or False?**](https://github.com/bitsblocks/crypto-facts), 2018 - FREE 
+[**Crypto Facts - Decentralize Payments - Efficient, Low Cost, Fair, Clean - True or False?**](https://github.com/bitsblocks/crypto-facts) by Nouriel Roubini, David Gerard, et al, 2018 - FREE 
+
+[**Crypto is the Mother of All Scams and (Now Busted) Bubbles - While Blockchain Is The Most Over-Hyped Technology Ever, No Better than a Spreadsheet/Database**](https://github.com/bitsblocks/crypto-bubbles) by Nouriel Roubini, 2018 - FREE 
 
 [**IslandCoin White Paper - A Pen and Paper Cash System - How to Run a Blockchain on a Deserted Island**](https://github.com/bitsblocks/islandcoin-whitepaper)
 by Tal Kol -- 
